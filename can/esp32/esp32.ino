@@ -27,15 +27,15 @@ void setup()
   Serial.println("\nWiFi connected");
   Serial.println("IP address: " + WiFi.localIP().toString());
 
-  sendCommandToServer(createData);
+  sendCommandToServer(create);
   delay(1000);
-  sendCommandToServer(checkData);
+  sendCommandToServer(checkD);
   delay(1000);
-  sendCommandToServer(getData);
+  sendCommandToServer(get);
   delay(1000);
-  sendCommandToServer(updateData);
+  sendCommandToServer(update);
   delay(1000);
-  sendCommandToServer(deleteData);
+  sendCommandToServer(delete);
 }
 
 void loop()
