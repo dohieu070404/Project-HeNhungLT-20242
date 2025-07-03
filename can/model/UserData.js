@@ -31,7 +31,8 @@ const UserDataSchema = new mongoose.Schema({
   rfid_id: { 
     type: String, 
     required: true, 
-    unique: true   // mỗi thẻ RFID chỉ gán cho 1 người
+    // unique: true   // mỗi thẻ RFID chỉ gán cho 1 người
+    
   },
   name: {
     type: String,
