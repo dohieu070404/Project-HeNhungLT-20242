@@ -1,7 +1,7 @@
 Đây là project thuộc về bộ môn Hệ nhúng - IT4210 của nhóm 6 . 
 Người thực hiện bao gồm : 
     Lê Xuân Cường - 20225797
-    Đỗ Trung Hiếu 
+    Đỗ Trung Hiếu - 20225623
     Nguyễn Văn Hiếu - 20225717 
     Bùi Xuân Nhất - 20225897
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````
@@ -24,8 +24,13 @@ Cách cài đặt cho các thành phần của hệ thống :
 2.2 : Setup với esp32 : 
 - Tạo sketch mới trong Adruino ide và chọn kit tương ứng . 
 - Copy nội dung file code esp32.ino vào sketch và sau đó tải các thư viện tương ứng . 
-- Đổi tên và mật khẩu wifi tương ứng để có thể sử dụng với server. 
-2.3 : Setup server : 
+- Đổi tên và mật khẩu wifi tương ứng để có thể sử dụng với server.
+- Set đổi IP địa chỉ ip sever đích chạy trên locall , sử dụng ip config ở teminal.
+2.3 : Setup server :
+-Cài đặt Node.js sử sụng câu lệnh " NPM i "
+-Cài đặt database : Tạo project trên MOogoseDB, Set up connection security, Choose a connection method, thay URL trong tệp DB.js trong thư mục DB ở Can/db/db.js
+- chạy sever dùng câu lệnh Npm start
+- kiểm thử server bằng cahyj file test ở teminal chạy node testStringParser
 
 3. Ghép nối các thiết bị ngoại vi : 
 Ghép nối trực tiếp module HX711 với các loadcell vào theo sơ đồ sau : 
