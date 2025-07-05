@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_GC47" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_2KR0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">WaitForScan</Translation>
+      </Text>
+      <Text Id="__SingleUse_U9BG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Signin</Translation>
+      </Text>
+      <Text Id="__SingleUse_H0SO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Login</Translation>
+      </Text>
+      <Text Id="__SingleUse_I2JM" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Logout</Translation>
+      </Text>
+      <Text Id="__SingleUse_O7JD" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Weight </Translation>
+      </Text>
+      <Text Id="__SingleUse_2U3J" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">History</Translation>
+      </Text>
+      <Text Id="__SingleUse_J609" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">07</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZH48" Alignment="Left" TypographyId="weightDisplay">
+        <Translation Language="GB">13</Translation>
+      </Text>
+      <Text Id="weightDisplayText" Alignment="Center" TypographyId="weightDisplay">
+        <Translation Language="GB">&lt;value&gt;.&lt;value&gt; kg</Translation>
+      </Text>
+      <Text Id="__SingleUse_IDKY" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">save</Translation>
+      </Text>
+      <Text Id="__SingleUse_S6WE" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&#10;Weight&#10;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters=".- kg" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="weightDisplay" Font="verdanai.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="." WildcardCharacterRanges="!-~" />
+  </Typographies>
+</TextDatabase>

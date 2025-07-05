@@ -1,0 +1,10 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/weight_screen/WeightViewBase.hpp:26:18:virtual void WeightViewBase::saveWeight()	0	static
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightView.cpp:16:6:virtual void WeightView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/weight_screen/WeightView.hpp:11:13:WeightView::~WeightView()	8	static
+../../TouchGFX/gui/include/gui/weight_screen/WeightView.hpp:11:13:virtual WeightView::~WeightView()	8	static
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightView.cpp:4:1:WeightView::WeightView()	8	static
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightView.cpp:9:6:virtual void WeightView::setupScreen()	8	static
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightView.cpp:21:6:virtual void WeightView::updateWeightDisplay(int)	8	static

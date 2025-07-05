@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:17:18:virtual void ModelListener::updateWeight(float)	1
+../../TouchGFX/gui/include/gui/dashboard_screen/DashboardPresenter.hpp:28:13:DashboardPresenter::~DashboardPresenter()	1
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/dashboard_screen/DashboardPresenter.cpp:10:6:virtual void DashboardPresenter::activate()	1
+../../TouchGFX/gui/include/gui/dashboard_screen/DashboardPresenter.hpp:28:13:virtual DashboardPresenter::~DashboardPresenter()	1
+../../TouchGFX/gui/include/gui/dashboard_screen/DashboardPresenter.hpp:28:13:virtual void* DashboardPresenter::_ZThn4_N18DashboardPresenterD1Ev()	1
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/dashboard_screen/DashboardPresenter.cpp:4:1:DashboardPresenter::DashboardPresenter(DashboardView&)	1
