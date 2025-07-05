@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/weight_screen/WeightPresenter.hpp:28:13:WeightPresenter::~WeightPresenter()	1
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightPresenter.cpp:10:6:virtual void WeightPresenter::activate()	1
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightPresenter.cpp:20:6:virtual void WeightPresenter::updateWeight(int)	1
+../../TouchGFX/gui/include/gui/weight_screen/WeightPresenter.hpp:28:13:virtual WeightPresenter::~WeightPresenter()	1
+../../TouchGFX/gui/include/gui/weight_screen/WeightPresenter.hpp:28:13:virtual void* WeightPresenter::_ZThn4_N15WeightPresenterD1Ev()	1
+D:/3.2/ES/Project/FinalProject/TouchGFX/gui/src/weight_screen/WeightPresenter.cpp:4:1:WeightPresenter::WeightPresenter(WeightView&)	1

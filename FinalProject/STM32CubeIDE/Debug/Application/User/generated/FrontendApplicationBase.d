@@ -1,0 +1,212 @@
+Application/User/generated/FrontendApplicationBase.o: \
+ D:/3.2/ES/Project/FinalProject/TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/common/AbstractPartition.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/mvp/MVPHeap.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Bitmap.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/ClickEvent.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Event.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/DragEvent.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/GestureEvent.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/UIEventListener.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/LCD.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TextProvider.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VectorFontRenderer.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VectorRenderer.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Matrix3x3.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VGData.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/DebugPrinter.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/platform/driver/button/ButtonController.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/BlitOp.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/DMA.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Atomic.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/FrameBufferAllocator.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Gestures.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp \
+ ../../TouchGFX/gui/include/gui/model/Model.hpp \
+ ../../TouchGFX/gui/include/gui/common/FrontendHeap.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendHeapBase.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/common/Meta.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/common/Partition.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp \
+ ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \
+ ../../TouchGFX/gui/include/gui/menu_screen/MenuView.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/menu_screen/MenuViewBase.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp \
+ ../../TouchGFX/gui/include/gui/menu_screen/MenuPresenter.hpp \
+ ../../TouchGFX/gui/include/gui/model/ModelListener.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
+ ../../TouchGFX/gui/include/gui/weight_screen/WeightView.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/weight_screen/WeightViewBase.hpp \
+ ../../TouchGFX/gui/include/gui/weight_screen/WeightPresenter.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/BoxWithBorder.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/Buttons.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AnimatedImageButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AnimatedImage.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TiledImageButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TiledImage.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ToggleButtonTrigger.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TouchButtonTrigger.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TwoWildcardTextButtonStyle.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/WildcardTextButtonStyle.hpp \
+ ../../TouchGFX/gui/include/gui/containers/Home.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/containers/HomeBase.hpp \
+ ../../TouchGFX/gui/include/gui/dashboard_screen/DashboardView.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/dashboard_screen/DashboardViewBase.hpp \
+ ../../TouchGFX/gui/include/gui/dashboard_screen/DashboardPresenter.hpp \
+ ../../TouchGFX/gui/include/gui/waitforscan_screen/WaitForScanView.hpp \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ ../../Core/Inc/FreeRTOSConfig.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ ../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/waitforscan_screen/WaitForScanViewBase.hpp \
+ ../../TouchGFX/gui/include/gui/waitforscan_screen/WaitForScanPresenter.hpp \
+ ../../TouchGFX/gui/include/gui/historyscreen_screen/HistoryScreenView.hpp \
+ ../../TouchGFX/generated/gui_generated/include/gui_generated/historyscreen_screen/HistoryScreenViewBase.hpp \
+ ../../TouchGFX/gui/include/gui/historyscreen_screen/HistoryScreenPresenter.hpp \
+ ../../TouchGFX/generated/texts/include/texts/TextKeysAndLanguages.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/LCD16DebugPrinter.hpp
+../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:
+../../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp:
+../../Middlewares/ST/touchgfx/framework/include/common/AbstractPartition.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp:
+../../Middlewares/ST/touchgfx/framework/include/mvp/MVPHeap.hpp:
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Bitmap.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/ClickEvent.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Event.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/DragEvent.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/events/GestureEvent.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/UIEventListener.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/LCD.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TextProvider.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VectorFontRenderer.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VectorRenderer.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Matrix3x3.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/VGData.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/DebugPrinter.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:
+../../Middlewares/ST/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp:
+../../Middlewares/ST/touchgfx/framework/include/platform/driver/button/ButtonController.hpp:
+../../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/BlitOp.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/DMA.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Atomic.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/FrameBufferAllocator.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Gestures.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:
+../../TouchGFX/gui/include/gui/model/Model.hpp:
+../../TouchGFX/gui/include/gui/common/FrontendHeap.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendHeapBase.hpp:
+../../Middlewares/ST/touchgfx/framework/include/common/Meta.hpp:
+../../Middlewares/ST/touchgfx/framework/include/common/Partition.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:
+../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp:
+../../TouchGFX/gui/include/gui/menu_screen/MenuView.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/menu_screen/MenuViewBase.hpp:
+../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:
+../../TouchGFX/gui/include/gui/menu_screen/MenuPresenter.hpp:
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:
+../../TouchGFX/gui/include/gui/weight_screen/WeightView.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/weight_screen/WeightViewBase.hpp:
+../../TouchGFX/gui/include/gui/weight_screen/WeightPresenter.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/BoxWithBorder.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/Buttons.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AnimatedImageButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AnimatedImage.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TiledImageButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TiledImage.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ToggleButtonTrigger.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TouchButtonTrigger.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TwoWildcardTextButtonStyle.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/WildcardTextButtonStyle.hpp:
+../../TouchGFX/gui/include/gui/containers/Home.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/containers/HomeBase.hpp:
+../../TouchGFX/gui/include/gui/dashboard_screen/DashboardView.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/dashboard_screen/DashboardViewBase.hpp:
+../../TouchGFX/gui/include/gui/dashboard_screen/DashboardPresenter.hpp:
+../../TouchGFX/gui/include/gui/waitforscan_screen/WaitForScanView.hpp:
+../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+../../Core/Inc/FreeRTOSConfig.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
+../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h:
+../../TouchGFX/generated/gui_generated/include/gui_generated/waitforscan_screen/WaitForScanViewBase.hpp:
+../../TouchGFX/gui/include/gui/waitforscan_screen/WaitForScanPresenter.hpp:
+../../TouchGFX/gui/include/gui/historyscreen_screen/HistoryScreenView.hpp:
+../../TouchGFX/generated/gui_generated/include/gui_generated/historyscreen_screen/HistoryScreenViewBase.hpp:
+../../TouchGFX/gui/include/gui/historyscreen_screen/HistoryScreenPresenter.hpp:
+../../TouchGFX/generated/texts/include/texts/TextKeysAndLanguages.hpp:
+../../Middlewares/ST/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp:
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/lcd/LCD16DebugPrinter.hpp:
